@@ -1,7 +1,7 @@
 ## You can find the live demo of this project here:
 [Burger-Builder](https://react-my-burger-7d041.web.app)
 
-### Burger Builder is an app designed to demo buying a customized burger.
+### Burger Builder is a single-page app designed to demo buying a customized burger.
 #### The user can go through customizing their burger and ordering it using this mobile-friendly app.
 
 ### Technologies used:
